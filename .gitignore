@@ -130,3 +130,6 @@ dmypy.json
 
 # Windows
 *.bat
+
+# PyCharm
+.idea
